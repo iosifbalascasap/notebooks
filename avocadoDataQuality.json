@@ -1,6 +1,2 @@
 [
-    { "name": "Region", "source": "dimension", "dimension": "region", "type": "selector"},
-    { "name": "Avocado Type", "source": "dimension", "dimension": "type", "type": "selector"},
-    { "name": "Measure", "source": "options", "type": "selector", "options": ["AveragePrice", "Total_Volume", "PLU4046", "PLU4225", "PLU4770", "Total_Bags", "Small_Bags", "Large_Bags", "XLarge_Bags"]},
-    { "name": "Version", "source": "dimension", "dimension": "Version", "type": "selector"}
 ]
